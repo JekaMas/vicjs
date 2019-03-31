@@ -1,8 +1,8 @@
 # Упражнения
 
-## https://nodeschool.io/ru/
 
-### первая часть
+
+## первая часть
 
 
 https://github.com/stevekane/promise-it-wont-hurt
@@ -16,7 +16,7 @@ https://github.com/kishorsharma/currying-workshopper
 https://github.com/excellalabs/js-best-practices-workshopper
 https://github.com/workshopper/test-anything
 
-### вторая часть
+## вторая часть
 
 https://github.com/workshopper/stream-adventure
 https://github.com/azat-co/expressworks
@@ -26,7 +26,7 @@ https://github.com/workshopper/learnyoureact
 https://github.com/asbjornenge/thinking-in-react
 https://github.com/workshopper/levelmeup
 
-### третья часть
+## третья часть
 
 https://exercism.io/tracks/javascript/exercises
 https://www.w3resource.com/javascript-exercises/
