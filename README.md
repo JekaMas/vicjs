@@ -45,3 +45,11 @@
 Это будем делать после курса по интерфейсам. Сначала чисто функции. Затем сделаем вэб версию, где запрос приходит из вэба. Затем сделаем бота телеграма. А после вэбинтерфейс
 
 “NodeJS: Using IP Geolocation Services with GeoIP Lite Fallback” by Ross Bulat https://link.medium.com/HtPEWwaq4V
+
+## послушать
+* https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
+* https://www.youtube.com/playlist?list=PLdhEOd5Bckb6MeNkr3F4bnWZogQYYrrA8
+* https://au-books.com/edvard-yordon-put-kamikadze-audiokniga/
+* https://www.youtube.com/playlist?list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu
+* https://www.youtube.com/playlist?list=PLrCZzMib1e9owORdnWTvZIkSCqRFFbHGA
+* https://www.youtube.com/playlist?list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_
