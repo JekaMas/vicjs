@@ -46,6 +46,7 @@
 
 “NodeJS: Using IP Geolocation Services with GeoIP Lite Fallback” by Ross Bulat https://link.medium.com/HtPEWwaq4V
 
+* https://m.habr.com/ru/company/yandex/blog/264631/
 * https://github.com/yandex-shri-2018?tab=repositories
 * https://github.com/anna-v/yashri-1
 * https://academy.yandex.ru/events/frontend/shri_msk-2018/
