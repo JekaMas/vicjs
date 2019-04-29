@@ -1,5 +1,7 @@
 # Упражнения
 
+## The path
+https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#frontend-roadmap
 
 
 ## первая часть
