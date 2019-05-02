@@ -3,6 +3,9 @@
 ## The path
 https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#frontend-roadmap
 
+## online trainings
+* https://github.com/kumavis/Learnable-Programming-Resources
+* https://kumavis.github.io/node-warrior/#/menu
 
 ## первая часть
 
