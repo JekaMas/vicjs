@@ -5,7 +5,17 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#fronten
 
 ## online trainings
 * https://github.com/kumavis/Learnable-Programming-Resources
+
+* http://alexnisnevich.github.io/untrusted/
 * https://kumavis.github.io/node-warrior/#/menu
+* http://jswarrior.fusioncharts.com
+* http://play.elevatorsaga.com/#challenge=1
+* http://flukeout.github.io
+* https://nodeschool.io/#workshoppers
+* http://jsdares.com
+* https://learngitbranching.js.org
+* https://www.codecademy.com/learn/learn-git
+* https://try.github.io
 
 ## первая часть
 
