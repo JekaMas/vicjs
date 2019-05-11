@@ -7,6 +7,9 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#fronten
 https://github.com/apexcharts/apexcharts.js
 https://github.com/polkadot-js/apps
 
+## Jobs
+* https://moikrug.ru/vacancies/1000038954
+
 ## online trainings
 * https://github.com/kumavis/Learnable-Programming-Resources
 
