@@ -5,6 +5,7 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#fronten
 
 ## The project
 https://github.com/apexcharts/apexcharts.js
+https://github.com/polkadot-js/apps
 
 ## online trainings
 * https://github.com/kumavis/Learnable-Programming-Resources
