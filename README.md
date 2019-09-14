@@ -9,6 +9,12 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#fronten
 - https://flukeout.github.io/
 - https://flexboxfroggy.com/#ru
 - https://codepip.com/games/
+https://github.com/billfienberg/javascript30
+
+https://github.com/billfienberg/intro-to-react
+https://github.com/billfienberg/todos
+https://github.com/billfienberg/formik
+https://github.com/billfienberg/multiweather
 
 ## The project
 https://github.com/apexcharts/apexcharts.js
