@@ -8,6 +8,7 @@ https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#fronten
 ## CSS
 - https://flukeout.github.io/
 - https://flexboxfroggy.com/#ru
+- https://codepip.com/games/
 
 ## The project
 https://github.com/apexcharts/apexcharts.js
