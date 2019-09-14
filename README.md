@@ -5,6 +5,10 @@ https://online-learning.harvard.edu/course/cs50s-mobile-app-development-react-na
 https://ru.coursera.org/learn/react-native
 https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md#frontend-roadmap
 
+## CSS
+- https://flukeout.github.io/
+- https://flexboxfroggy.com/#ru
+
 ## The project
 https://github.com/apexcharts/apexcharts.js
 https://github.com/polkadot-js/apps
